@@ -1,0 +1,26 @@
+{
+  "id": "/preventivi-recuperati/",
+  "name": "Preventivi Recuperati",
+  "short_name": "Preventivi",
+  "description": "Gestisci i preventivi e organizza i promemoria di follow-up.",
+  "lang": "it-IT",
+  "start_url": "/preventivi-recuperati/",
+  "scope": "/preventivi-recuperati/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1f4b99",
+  "icons": [
+    {
+      "src": "/preventivi-recuperati/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/preventivi-recuperati/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
